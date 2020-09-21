@@ -19,3 +19,5 @@ Play the game online at https://fildubek.itch.io/isles-of-heaven
 Use Directional keys to Navigate
 Click on message to make disapear.
 Avoid the Birds!
+
+![Image of Isles Of Heaven](https://github.com/PrimalCoder/islesofheaven/blob/master/Textures/cover.png)
